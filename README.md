@@ -2,6 +2,8 @@
 
 This project presents a comprehensive analysis of bank loan data using SQL and Power BI to visualize key insights. The dataset focuses on various factors related to loan approval, customer demographics, and loan status, providing valuable information for decision-making.
 
+![Bank Loan Analysis Dashboard](https://github.com/Priyanshu9528/Bank-Loan-Analysis/blob/main/Bank%20Loan%20Analysis%20Dashboard.png)  
+
 ## Project Overview
 
 The **Bank Loan Analysis Dashboard** aims to help banks and financial institutions analyze the patterns behind loan approvals and rejections. This dashboard is built using Power BI to provide visual insights and trends, while SQL queries are used to clean and manipulate the raw data for meaningful analysis. 
@@ -11,6 +13,9 @@ The **Bank Loan Analysis Dashboard** aims to help banks and financial institutio
 - **Data Cleaning**: Performed using SQL to handle missing values, outliers, and inconsistencies.
 - **Visualization**: An interactive Power BI dashboard to visualize the trends in loan approvals, customer profiles, and loan statuses.
 - **Key Metrics**: Loan approval rate, default rate, customer income distribution, and loan amounts.
+
+## Live Project
+You can explore the live **Bank Loan Analysis Dashboard** at the following link: [Bank Loan Analysis Dashboard](https://app.powerbi.com/groups/me/reports/d50ef23d-d142-4ed9-9ecc-f32a29db2db4/bde8bd89d2a32d0f06ae?experience=power-bi).
 
 ## Data Sources
 1. **Financial Loan Dataset** (`financial_loan.csv`): Contains customer demographics, loan information, and status.
@@ -50,3 +55,5 @@ The Bank Loan Analysis Dashboard provides a powerful tool for analyzing loan dat
 
 ## Contact
 For any queries, feel free to contact me at priyanshukumar99.gt@gmail.com.
+
+---
